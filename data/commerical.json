@@ -17,12 +17,12 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/orbzii/one.png"
+        "https://leverington.co.uk/data/localization/localization.png"
       ],
-      "accent": "2DCB9E",
-      "title": "Orbzii",
-      "description": "Travel app with tinder style holiday discovery",
-      "stack": "React Native | Redux | Typescript",
+      "accent": "FF9190",
+      "title": "Localization",
+      "description": "Localization in flutter",
+      "stack": "Flutter | Dart",
       "github": "https://github.com/billylev/flutter_localizations",
       "padding": "8"
     }
