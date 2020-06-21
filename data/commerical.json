@@ -10,8 +10,21 @@
       ],
       "accent": "2DCB9E",
       "title": "Orbzii",
-      "description": "Travel app for iOS",
-      "github": ""
+      "description": "Travel app",
+      "stack": "React Native | Redux | Typescript",
+      "github": "",
+      "padding": "8"
+    },
+    {
+      "images": [
+        "https://leverington.co.uk/data/orbzii/one.png"
+      ],
+      "accent": "2DCB9E",
+      "title": "Orbzii",
+      "description": "Travel app with tinder style holiday discovery",
+      "stack": "React Native | Redux | Typescript",
+      "github": "https://github.com/billylev/flutter_localizations",
+      "padding": "8"
     }
   ]
 }
