@@ -59,12 +59,12 @@
       "images": [
         "https://leverington.co.uk/data/github/localization.png"
       ],
-      "accent": "0",
+      "accent": "",
       "title": "Localization",
       "description": "Localization in flutter",
       "stack": "Flutter | Dart",
       "github": "https://github.com/billylev/flutter_localizations",
-      "padding": ""
+      "padding": "0"
     }
   ]
 }
