@@ -82,6 +82,22 @@
     },
     {
       "images": [
+        "https://leverington.co.uk/data/projects/dateifi/one.png",
+        "https://leverington.co.uk/data/projects/dateifi/two.png",
+        "https://leverington.co.uk/data/projects/dateifi/three.png",
+        "https://leverington.co.uk/data/projects/dateifi/four.png",
+        "https://leverington.co.uk/data/projects/dateifi/five.png",
+        "https://leverington.co.uk/data/projects/dateifi/six.png"
+      ],
+      "accent": "ff5858",
+      "title": "Dateifi",
+      "description": "Video dating app",
+      "stack": "C# | Xamarin.Forms | Quickblox | Icelink",
+      "github": "",
+      "padding": "8"
+    },
+    {
+      "images": [
         "https://leverington.co.uk/data/projects/icd/one.jpg",
         "https://leverington.co.uk/data/projects/icd/two.jpg",
         "https://leverington.co.uk/data/projects/icd/three.jpg",
