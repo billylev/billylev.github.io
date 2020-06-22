@@ -24,7 +24,7 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/localization/bloc.png"
+        "https://leverington.co.uk/data/github/bloc.png"
       ],
       "accent": "",
       "title": "Bloc",
@@ -59,12 +59,12 @@
       "images": [
         "https://leverington.co.uk/data/github/localization.png"
       ],
-      "accent": "FF9190",
+      "accent": "0",
       "title": "Localization",
       "description": "Localization in flutter",
       "stack": "Flutter | Dart",
       "github": "https://github.com/billylev/flutter_localizations",
-      "padding": "8"
+      "padding": ""
     }
   ]
 }

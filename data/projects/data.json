@@ -2,11 +2,11 @@
   "projects": [
     {
       "images": [
-        "https://leverington.co.uk/data/orbzii/one.png",
-        "https://leverington.co.uk/data/orbzii/two.png",
-        "https://leverington.co.uk/data/orbzii/three.png",
-        "https://leverington.co.uk/data/orbzii/four.png",
-        "https://leverington.co.uk/data/orbzii/five.png"
+        "https://leverington.co.uk/data/projects/orbzii/one.png",
+        "https://leverington.co.uk/data/projects/orbzii/two.png",
+        "https://leverington.co.uk/data/projects/orbzii/three.png",
+        "https://leverington.co.uk/data/projects/orbzii/four.png",
+        "https://leverington.co.uk/data/projects/orbzii/five.png"
       ],
       "accent": "2DCB9E",
       "title": "Orbzii",
@@ -17,9 +17,9 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/connectedcar/one.png",
-        "https://leverington.co.uk/data/connectedcar/two.png",
-        "https://leverington.co.uk/data/connectedcar/three.png"
+        "https://leverington.co.uk/data/projects/connectedcar/one.png",
+        "https://leverington.co.uk/data/projects/connectedcar/two.png",
+        "https://leverington.co.uk/data/projects/connectedcar/three.png"
       ],
       "accent": "feec92",
       "title": "Connected Car",
@@ -30,9 +30,9 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/airstream/two.jpg",
-        "https://leverington.co.uk/data/airstream/three.png",
-        "https://leverington.co.uk/data/airstream/four.png"
+        "https://leverington.co.uk/data/projects/airstream/two.png",
+        "https://leverington.co.uk/data/projects/airstream/three.png",
+        "https://leverington.co.uk/data/projects/airstream/four.png"
       ],
       "accent": "509dda",
       "title": "Airstream",
@@ -43,10 +43,10 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/tabs/one.png",
-        "https://leverington.co.uk/data/tabs/two.png",
-        "https://leverington.co.uk/data/tabs/three.png",
-        "https://leverington.co.uk/data/tabs/four.png"
+        "https://leverington.co.uk/data/projects/tabs/one.png",
+        "https://leverington.co.uk/data/projects/tabs/two.png",
+        "https://leverington.co.uk/data/projects/tabs/three.png",
+        "https://leverington.co.uk/data/projects/tabs/four.png"
       ],
       "accent": "b6dddf",
       "title": "Tabs.io",
@@ -57,8 +57,8 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/uscelluar/one.png",
-        "https://leverington.co.uk/data/uscelluar/two.png"
+        "https://leverington.co.uk/data/projects/uscelluar/one.png",
+        "https://leverington.co.uk/data/projects/uscelluar/two.png"
       ],
       "accent": "b6dddf",
       "title": "Bill Reducer",
@@ -69,9 +69,9 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/boox/one.jpg",
-        "https://leverington.co.uk/data/boox/two.jpg",
-        "https://leverington.co.uk/data/boox/three.jpg"
+        "https://leverington.co.uk/data/projects/boox/one.png",
+        "https://leverington.co.uk/data/projects/boox/two.png",
+        "https://leverington.co.uk/data/projects/boox/three.png"
       ],
       "accent": "63c2c6",
       "title": "Boox",
@@ -82,11 +82,11 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/icd/one.jpg",
-        "https://leverington.co.uk/data/icd/two.jpg",
-        "https://leverington.co.uk/data/icd/three.jpg",
-        "https://leverington.co.uk/data/icd/four.jpg",
-        "https://leverington.co.uk/data/icd/five.jpg"
+        "https://leverington.co.uk/data/projects/icd/one.jpg",
+        "https://leverington.co.uk/data/projects/icd/two.jpg",
+        "https://leverington.co.uk/data/projects/icd/three.jpg",
+        "https://leverington.co.uk/data/projects/icd/four.jpg",
+        "https://leverington.co.uk/data/projects/icd/five.jpg"
       ],
       "accent": "000000",
       "title": "McLaren Infotainment",
@@ -94,6 +94,20 @@
       "stack": "C++ | DirectX | Automotive",
       "github": "",
       "padding": "8"
+    },
+    {
+      "images": [
+        "https://leverington.co.uk/data/projects/magicmayhem/one.jpg",
+        "https://leverington.co.uk/data/projects/magicmayhem/two.jpg",
+        "https://leverington.co.uk/data/projects/magicmayhem/three.jpg",
+        "https://leverington.co.uk/data/projects/magicmayhem/four.jpg"
+      ],
+      "accent": "",
+      "title": "Magic & Mayhem",
+      "description": "PC strategy game",
+      "stack": "C++ | DirectX",
+      "github": "",
+      "padding": ""
     }
   ]
 }
