@@ -127,120 +127,120 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/archerycupcontest/one.jpng",
+        "https://leverington.co.uk/data/projects/archerycupcontest/one.jpg",
         "https://leverington.co.uk/data/projects/archerycupcontest/two.jpg",
         "https://leverington.co.uk/data/projects/archerycupcontest/three.jpg",
         "https://leverington.co.uk/data/projects/archerycupcontest/four.jpg",
         "https://leverington.co.uk/data/projects/archerycupcontest/five.jpg",
         "https://leverington.co.uk/data/projects/archerycupcontest/six.jpg"
       ],
-      "accent": "",
+      "accent": "a27c3e",
       "title": "Archery Cup Contest",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/splattybirds/one.jpng",
+        "https://leverington.co.uk/data/projects/splattybirds/one.jpg",
         "https://leverington.co.uk/data/projects/splattybirds/two.jpg",
         "https://leverington.co.uk/data/projects/splattybirds/three.jpg",
         "https://leverington.co.uk/data/projects/splattybirds/four.jpg",
         "https://leverington.co.uk/data/projects/splattybirds/five.jpg"
       ],
-      "accent": "",
+      "accent": "8d170f",
       "title": "Splatty Birds",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/jetpack/two/one.jpng",
+        "https://leverington.co.uk/data/projects/jetpack/two/one.jpg",
         "https://leverington.co.uk/data/projects/jetpack/two/two.jpg",
         "https://leverington.co.uk/data/projects/jetpack/two/three.jpg"
       ],
-      "accent": "",
+      "accent": "b3b3b3",
       "title": "Jetpack III",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/worldtime/one.jpng",
+        "https://leverington.co.uk/data/projects/worldtime/one.jpg",
         "https://leverington.co.uk/data/projects/worldtime/two.jpg",
         "https://leverington.co.uk/data/projects/worldtime/three.jpg",
         "https://leverington.co.uk/data/projects/worldtime/four.jpg",
         "https://leverington.co.uk/data/projects/worldtime/five.jpg"
       ],
-      "accent": "",
+      "accent": "666666",
       "title": "World Time",
       "description": "Windows Phone",
       "stack": "C#",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/jetpack/one/one.jpng",
+        "https://leverington.co.uk/data/projects/jetpack/one/one.jpg",
         "https://leverington.co.uk/data/projects/jetpack/one/two.jpg",
         "https://leverington.co.uk/data/projects/jetpack/one/three.jpg",
         "https://leverington.co.uk/data/projects/jetpack/one/four.jpg",
         "https://leverington.co.uk/data/projects/jetpack/one/five.jpg"
       ],
-      "accent": "",
+      "accent": "907d59",
       "title": "Jetpack II",
       "description": "Windows Smartphone & PPC Game",
       "stack": "C++",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/madbeetle/one.jpng",
+        "https://leverington.co.uk/data/projects/madbeetle/one.jpg",
         "https://leverington.co.uk/data/projects/madbeetle/two.jpg",
         "https://leverington.co.uk/data/projects/madbeetle/three.jpg",
         "https://leverington.co.uk/data/projects/madbeetle/four.jpg",
         "https://leverington.co.uk/data/projects/madbeetle/five.jpg",
         "https://leverington.co.uk/data/projects/madbeetle/six.jpg"
       ],
-      "accent": "",
+      "accent": "130a00",
       "title": "Madbeetle",
       "description": "Windows Smartphone & PPC Platform Game",
       "stack": "C++",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/slotcarracer/one.jpng",
+        "https://leverington.co.uk/data/projects/slotcarracer/one.jpg",
         "https://leverington.co.uk/data/projects/slotcarracer/two.jpg",
         "https://leverington.co.uk/data/projects/slotcarracer/three.jpg"
       ],
-      "accent": "",
+      "accent": "5aa02c",
       "title": "Slot car racer",
       "description": "Windows Smartphone & PPC Racing Game",
       "stack": "C++",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     },
     {
       "images": [
-        "https://leverington.co.uk/data/projects/alieninvaders/one.jpng",
+        "https://leverington.co.uk/data/projects/alieninvaders/one.jpg",
         "https://leverington.co.uk/data/projects/alieninvaders/two.jpg",
         "https://leverington.co.uk/data/projects/alieninvaders/three.jpg",
         "https://leverington.co.uk/data/projects/alieninvaders/four.jpg"
       ],
-      "accent": "",
-      "title": "Slot car racer",
-      "description": "Windows Smartphone & PPC Racing Game",
+      "accent": "000000",
+      "title": "Alien Invaders",
+      "description": "Windows Smartphone & PPC Game",
       "stack": "C++",
       "github": "",
-      "padding": "0"
+      "padding": "8"
     }
   ]
 }
