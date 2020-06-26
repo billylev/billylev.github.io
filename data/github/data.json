@@ -2,7 +2,7 @@
   "projects": [
     {
       "images": [
-        "https://leverington.co.uk/data/url/pinch.jpeg"
+        "https://leverington.co.uk/data/github/pinch.jpeg"
       ],
       "accent": "",
       "title": "Pinch, zoom & Drag",
@@ -13,7 +13,7 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/url/flower_shop.png"
+        "https://leverington.co.uk/data/github/flower_shop.png"
       ],
       "accent": "",
       "title": "Flower Shop",
@@ -24,7 +24,7 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/url/bloc.png"
+        "https://leverington.co.uk/data/github/bloc.png"
       ],
       "accent": "",
       "title": "Bloc",
@@ -35,7 +35,7 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/url/redux.png"
+        "https://leverington.co.uk/data/github/redux.png"
       ],
       "accent": "",
       "title": "Redux Pattern",
@@ -46,7 +46,7 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/url/themes.png"
+        "https://leverington.co.uk/data/github/themes.png"
       ],
       "accent": "",
       "title": "Themes",
@@ -57,14 +57,14 @@
     },
     {
       "images": [
-        "https://leverington.co.uk/data/url/localization.png"
+        "https://leverington.co.uk/data/github/localization.png"
       ],
-      "accent": "",
+      "accent": "000000",
       "title": "Localization",
       "description": "Localization in flutter",
       "stack": "Flutter | Dart",
       "url": "https://url.com/billylev/flutter_localizations",
-      "padding": "0"
+      "padding": "1"
     }
   ]
 }
