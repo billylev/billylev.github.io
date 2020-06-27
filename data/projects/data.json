@@ -105,13 +105,11 @@
       "images": [
         "https://leverington.co.uk/data/projects/icd/one.jpg",
         "https://leverington.co.uk/data/projects/icd/two.jpg",
-        "https://leverington.co.uk/data/projects/icd/three.jpg",
-        "https://leverington.co.uk/data/projects/icd/four.jpg",
-        "https://leverington.co.uk/data/projects/icd/five.jpg"
+        "https://leverington.co.uk/data/projects/icd/three.jpg"
       ],
       "accent": "000000",
       "title": "McLaren Infotainment",
-      "description": "Console app for McLaren MP4-12C supercar",
+      "description": "Infotainment console for the McLaren MP4-12C supercar",
       "stack": "C++ | DirectX | Automotive",
       "filter": "Innovative Converged Devices",
       "url": "",
@@ -141,7 +139,7 @@
         "https://leverington.co.uk/data/projects/archerycupcontest/five.jpg",
         "https://leverington.co.uk/data/projects/archerycupcontest/six.jpg"
       ],
-      "accent": "a27c3e",
+      "accent": "000000",
       "title": "Archery Cup Contest",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
@@ -155,7 +153,7 @@
         "https://leverington.co.uk/data/projects/fartybum/two.jpg",
         "https://leverington.co.uk/data/projects/fartybum/three.jpg"
       ],
-      "accent": "a27c3e",
+      "accent": "000000",
       "title": "Farty Bum",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
@@ -171,7 +169,7 @@
         "https://leverington.co.uk/data/projects/splattybirds/four.jpg",
         "https://leverington.co.uk/data/projects/splattybirds/five.jpg"
       ],
-      "accent": "8d170f",
+      "accent": "000000",
       "title": "Splatty Birds",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
@@ -185,7 +183,7 @@
         "https://leverington.co.uk/data/projects/jetpack/two/two.jpg",
         "https://leverington.co.uk/data/projects/jetpack/two/three.jpg"
       ],
-      "accent": "b3b3b3",
+      "accent": "000000",
       "title": "Jetpack III",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
@@ -217,7 +215,7 @@
         "https://leverington.co.uk/data/projects/jetpack/one/four.jpg",
         "https://leverington.co.uk/data/projects/jetpack/one/five.jpg"
       ],
-      "accent": "907d59",
+      "accent": "000000",
       "title": "Jetpack II",
       "description": "Windows Smartphone & PPC Game",
       "stack": "C++",
@@ -234,7 +232,7 @@
         "https://leverington.co.uk/data/projects/madbeetle/five.jpg",
         "https://leverington.co.uk/data/projects/madbeetle/six.jpg"
       ],
-      "accent": "130a00",
+      "accent": "000000",
       "title": "Madbeetle",
       "description": "Windows Smartphone & PPC Platform Game",
       "stack": "C++",
@@ -248,7 +246,7 @@
         "https://leverington.co.uk/data/projects/slotcarracer/two.jpg",
         "https://leverington.co.uk/data/projects/slotcarracer/three.jpg"
       ],
-      "accent": "5aa02c",
+      "accent": "000000",
       "title": "Slot car racer",
       "description": "Windows Smartphone & PPC Racing Game",
       "stack": "C++",
