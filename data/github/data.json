@@ -8,6 +8,7 @@
       "title": "Pinch, zoom & Drag",
       "description": "Instagram style pinch, zoom and drag",
       "stack": "Flutter | Dart",
+      "filter": "",
       "url": "https://medium.com/@billyleverington/building-instagrams-pinch-zoom-and-drag-a-photo-in-flutter-110f29a79bb7",
       "padding": "0"
     },
@@ -19,6 +20,7 @@
       "title": "Flower Shop",
       "description": "A flower shop implemented using flutter",
       "stack": "Flutter | Dart",
+      "filter": "",
       "url": "https://url.com/billylev/flutter_flowershop",
       "padding": "0"
     },
@@ -30,6 +32,7 @@
       "title": "Bloc",
       "description": "Using Bloc Pattern for state management in a flutter project",
       "stack": "Flutter | Dart",
+      "filter": "",
       "url": "https://url.com/billylev/flutter_posts_bloc",
       "padding": "0"
     },
@@ -41,6 +44,7 @@
       "title": "Redux Pattern",
       "description": "Using Redux Pattern for state management in a flutter project",
       "stack": "Flutter | Dart",
+      "filter": "",
       "url": "https://url.com/billylev/flutter_posts_redux",
       "padding": "0"
     },
@@ -52,6 +56,7 @@
       "title": "Themes",
       "description": "Exploring flutter themes.",
       "stack": "Flutter | Dart",
+      "filter": "",
       "url": "https://url.com/billylev/flutter_themes",
       "padding": "0"
     },
@@ -63,6 +68,7 @@
       "title": "Localization",
       "description": "Localization in flutter",
       "stack": "Flutter | Dart",
+      "filter": "",
       "url": "https://url.com/billylev/flutter_localizations",
       "padding": "1"
     }

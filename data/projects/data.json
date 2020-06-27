@@ -12,6 +12,7 @@
       "title": "Orbzii",
       "description": "Travel app",
       "stack": "React Native | Redux | Typescript",
+      "filter": "Matchbox Mobile",
       "url": "",
       "padding": "8"
     },
@@ -38,6 +39,7 @@
       "title": "Airstream",
       "description": "Airstream controller app",
       "stack": "Java | Swift | Android | iOS",
+      "filter": "Matchbox Mobile",
       "url": "",
       "padding": "8"
     },
@@ -52,6 +54,7 @@
       "title": "Tabs.io",
       "description": "Home IoT solution",
       "stack": "C# | Xamarin.Android | Xamarin.iOS",
+      "filter": "Matchbox Mobile",
       "url": "",
       "padding": "8"
     },
@@ -77,6 +80,7 @@
       "title": "Boox",
       "description": "Contractors accounting app",
       "stack": "C# | Xamarin.Android | Xamarin.iOS",
+      "filter": "Matchbox Mobile",
       "url": "",
       "padding": "8"
     },
@@ -93,6 +97,7 @@
       "title": "Dateifi",
       "description": "Video dating app",
       "stack": "C# | Xamarin.Forms | Quickblox | Icelink",
+      "filter": "Dateifi",
       "url": "",
       "padding": "8"
     },
@@ -108,6 +113,7 @@
       "title": "McLaren Infotainment",
       "description": "Console app for McLaren MP4-12C supercar",
       "stack": "C++ | DirectX | Automotive",
+      "filter": "Innovative Converged Devices",
       "url": "",
       "padding": "8"
     },
@@ -122,6 +128,7 @@
       "title": "Magic & Mayhem",
       "description": "PC strategy game",
       "stack": "C++ | DirectX",
+      "filter": "Mythos Games",
       "url": "",
       "padding": "0"
     },
@@ -138,6 +145,7 @@
       "title": "Archery Cup Contest",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
+      "filter": "Madbeetle Ltd",
       "url": "https://youtu.be/LiT2Pw6o8Vo",
       "padding": "8"
     },
@@ -151,6 +159,7 @@
       "title": "Farty Bum",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
+      "filter": "Madbeetle Ltd",
       "url": "https://youtu.be/aNYDC0pzwXA",
       "padding": "8"
     },
@@ -166,6 +175,7 @@
       "title": "Splatty Birds",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
+      "filter": "Madbeetle Ltd",
       "url": "https://youtu.be/_DNYL-t5zsI",
       "padding": "8"
     },
@@ -179,6 +189,7 @@
       "title": "Jetpack III",
       "description": "iOS & Android Game",
       "stack": "Lua | Gideros SDK",
+      "filter": "Madbeetle Ltd",
       "url": "https://youtu.be/mUPcQTEG7ZI",
       "padding": "8"
     },
@@ -192,6 +203,7 @@
       ],
       "accent": "666666",
       "title": "World Time",
+      "filter": "Madbeetle Ltd",
       "description": "Windows Phone",
       "stack": "C#",
       "url": "",
@@ -209,6 +221,7 @@
       "title": "Jetpack II",
       "description": "Windows Smartphone & PPC Game",
       "stack": "C++",
+      "filter": "Madbeetle Ltd",
       "url": "",
       "padding": "8"
     },
@@ -225,6 +238,7 @@
       "title": "Madbeetle",
       "description": "Windows Smartphone & PPC Platform Game",
       "stack": "C++",
+      "filter": "Madbeetle Ltd",
       "url": "",
       "padding": "8"
     },
@@ -238,6 +252,7 @@
       "title": "Slot car racer",
       "description": "Windows Smartphone & PPC Racing Game",
       "stack": "C++",
+      "filter": "Madbeetle Ltd",
       "url": "",
       "padding": "8"
     },
@@ -252,6 +267,7 @@
       "title": "Alien Invaders",
       "description": "Windows Smartphone & PPC Game",
       "stack": "C++",
+      "c": "Madbeetle Ltd",
       "url": "",
       "padding": "8"
     }
