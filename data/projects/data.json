@@ -14,7 +14,8 @@
       "stack": "React Native | Redux | Typescript",
       "filter": "Matchbox Mobile",
       "url": "",
-      "padding": "8"
+      "padding": "8",
+      "appStore": "https://apps.apple.com/gb/app/orbzii/id1491315690"
     },
     {
       "images": [
@@ -27,7 +28,9 @@
       "description": "Car app for AA and ANWB",
       "stack": "Java | Swift | Android | iOS",
       "url": "",
-      "padding": "8"
+      "padding": "8",
+      "appStore": "https://apps.apple.com/gb/app/car-genie/id1168680322",
+      "google": "https://play.google.com/store/apps/details?id=com.theaa.car&gl=GB"
     },
     {
       "images": [
@@ -41,7 +44,9 @@
       "stack": "Java | Swift | Android | iOS",
       "filter": "Matchbox Mobile",
       "url": "",
-      "padding": "8"
+      "padding": "8",
+      "appStore": "https://apps.apple.com/us/app/airstream-smart-rv-control/id1403406838",
+      "google": "https://play.google.com/store/apps/details?id=com.airstream.smartrv&hl=en_GB"
     },
     {
       "images": [
