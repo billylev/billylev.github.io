@@ -1,0 +1,197 @@
+﻿Australian Central Daylight Time,ACDT,Australia/Adelaide
+Australian Central Standard Time,ACST,Australia/Darwin
+Acre Time,ACT,America/Rio_Branco
+Atlantic Daylight Time,ADT,America/Halifax
+Australian Eastern Daylight Time,AEDT,Australia/Sydney
+Australian Eastern Standard Time,AEST,Australia/Brisbane
+Australian Eastern Standard Time,AEST,Australia/Sydney
+Afghanistan Time,AFT,Asia/Kabul
+Alaska Daylight Time,AKDT,America/Anchorage
+Alaska Standard Time,AKST,America/Juneau
+Alma-Ata Time,ALMT,Asia/Almaty
+Amazon Time (Brazil),AMT,America/Manaus
+Armenia Time,AMT,Asia/Yerevan
+Anadyr Time,ANAT,Asia/Anadyr
+Aqtobe Time,AQTT,Asia/Aqtobe
+Argentina Time,ART,America/Argentina/Buenos_Aires
+Arabia Standard Time,AST,Asia/Riyadh
+Atlantic Standard Time,AST,America/Puerto_Rico
+Australian Western Standard Time,AWST,Australia/Perth
+Azores Standard Time,AZOT,Atlantic/Azores
+Azerbaijan Time,AZT,Asia/Baku
+Brunei Time,BNT,Asia/Brunei
+British Indian Ocean Time,BIOT,Indian/Chagos
+Baker Island Time,BIT,Pacific/Baker
+Bolivia Time,BOT,America/La_Paz
+Brasília Time,BRT,America/Sao_Paulo
+Bangladesh Standard Time,BST,Asia/Dhaka
+Bougainville Standard Time,BST,Pacific/Bougainville
+Greenwich Mean Time,GMT,Europe/London
+Bhutan Time,BTT,Asia/Thimphu
+West Africa Time,WAT,Africa/Kinshasa
+Cocos Islands Time,CXT,Indian/Cocos
+Central Daylight Time (North America),CDT,America/Chicago
+Cuba Daylight Time,CDT,America/Havana
+Central European Summer Time,CEST,Europe/Berlin
+Central European Time,CET,Europe/Brussels
+Chatham Daylight Time,CHADT,Pacific/Chatham
+Chatham Standard Time,CHAST,Pacific/Chatham
+Choibalsan Standard Time,CHOT,Asia/Choibalsan
+Choibalsan Summer Time,CHOST,Asia/Choibalsan
+Chamorro Standard Time,ChST,Pacific/Guam
+Chuuk Time,CHUT,Pacific/Chuuk
+Clipperton Island Standard Time,CLT,Pacific/Clipperton
+Cook Island Time,CKT,Pacific/Rarotonga
+Chile Summer Time,CLST,America/Santiago
+Chile Standard Time,CLT,America/Santiago
+Colombia Summer Time,COT,America/Bogota
+Colombia Time,COT,America/Bogota
+Central Standard Time (North America),CST,America/Chicago
+China Standard Time,CST,Asia/Shanghai
+Cuba Standard Time,CST,America/Havana
+Central Time,CST,America/Chicago
+Cape Verde Time,CVT,Atlantic/Cape_Verde
+Christmas Island Time,CXT,Indian/Christmas
+Davis Time,DAVT,Antarctica/Davis
+Dumont d'Urville Time,DDUT,Antarctica/DumontDUrville
+Easter Island Summer Time,EASST,Pacific/Easter
+Easter Island Standard Time,EAST,Pacific/Easter
+East Africa Time,EAT,Africa/Nairobi
+Eastern Caribbean Time,ECT,America/Barbados
+Ecuador Time,ECT,America/Guayaquil
+Eastern Daylight Time (North America),EDT,America/New_York
+Eastern European Summer Time,EEST,Europe/Athens
+Eastern European Time,EET,Europe/Bucharest
+Eastern Greenland Summer Time,EGST,America/Scoresbysund
+Eastern Greenland Time,EGT,America/Scoresbysund
+Eastern Standard Time (North America),EST,America/New_York
+Eastern Time (North America),ET,America/New_York
+Kaliningrad Time,FET,Europe/Kaliningrad
+Fiji Time,FJT,Pacific/Suva
+Falkland Islands Summer Time,FKST,Atlantic/Stanley
+Falkland Islands Time,FKT,Atlantic/Stanley
+Fernando de Noronha Time,FNT,America/Noronha
+Galápagos Time,GALT,Pacific/Galapagos
+Gambier Islands Time,GAMT,Pacific/Gambier
+Georgia Standard Time,GET,Asia/Tbilisi
+French Guiana Time,GFT,America/Cayenne
+Gilbert Island Time,GILT,Pacific/Tarawa
+Gambier Island Time,GILT,Pacific/Mangareva
+South Georgia and the South Sandwich Islands Time,GST,Atlantic/South_Georgia
+Gulf Standard Time,GST,Asia/Dubai
+Guyana Time,GYT,America/Guyana
+Hawaii–Aleutian Daylight Time,HADT,America/Adak
+Central European Summer Time,HAC,Europe/Paris
+Hawaii–Aleutian Standard Time,HAST,Pacific/Honolulu
+Hong Kong Time,HKT,Asia/Hong_Kong
+Heard and McDonald Islands Time,HMT,Indian/Kerguelen
+Hovd Time,HOVT,Asia/Hovd
+Indochina Time,ICT,Asia/Ho_Chi_Minh
+Israel Daylight Time,IDT,Asia/Jerusalem
+Indian Ocean Time,IOT,Indian/Chagos
+Iran Daylight Time,IRDT,Asia/Tehran
+Irkutsk Time,IRKT,Asia/Irkutsk
+Iran Standard Time,IRST,Asia/Tehran
+Indian Standard Time,IST,Asia/Kolkata
+Greenwich Mean Time,GMT,Europe/Dublin
+Israel Standard Time,IST,Asia/Jerusalem
+Japan Standard Time,JST,Asia/Tokyo
+Kaliningrad Time,KALT,Europe/Kaliningrad
+Kyrgyzstan Time,KGT,Asia/Bishkek
+Kosrae Time,KOST,Pacific/Kosrae
+Krasnoyarsk Time,KRAT,Asia/Krasnoyarsk
+Korea Standard Time,KST,Asia/Seoul
+Lord Howe Standard Time,LHST,Australia/Lord_Howe
+Lord Howe Summer Time,LHST,Australia/Lord_Howe
+Line Islands Time,LINT,Pacific/Kiritimati
+Magadan Time,MAGT,Asia/Magadan
+Marquesas Islands Time,MART,Pacific/Marquesas
+Mawson Station Time,MAWT,Antarctica/Mawson
+Mountain Daylight Time (North America),MDT,America/Denver
+Central European Time,CET,Europe/Brussels
+Central European Summer Time,CEST,Europe/Paris
+Central Africa Time,CAT,Africa/Lusaka
+Marshall Islands Time,MHT,Pacific/Majuro
+Macquarie Island Station Time,MIST,Antarctica/Macquarie
+Marquesas Islands Time,MART,Pacific/Marquesas
+Myanmar Standard Time,MMT,Asia/Yangon
+Moscow Standard Time,MSK,Europe/Moscow
+Malaysia Standard Time,MYT,Asia/Kuala_Lumpur
+Mountain Standard Time (North America),MST,America/Denver
+Mauritius Time,MUT,Indian/Mauritius
+Maldives Time,MVT,Indian/Maldives
+Malaysia Time,MYT,Asia/Kuala_Lumpur
+New Caledonia Time,NCT,Pacific/Noumea
+Newfoundland Daylight Time,NDT,America/St_Johns
+Norfolk Island Time,NFT,Pacific/Norfolk
+Novosibirsk Time,NOVT,Asia/Novosibirsk
+Nepal Time,NPT,Asia/Kathmandu
+Newfoundland Standard Time,NST,America/St_Johns
+Newfoundland Time,NDT,America/St_Johns
+Niue Time,NUT,Pacific/Niue
+New Zealand Daylight Time,NZDT,Pacific/Auckland
+New Zealand Standard Time,NZST,Pacific/Auckland
+Omsk Time,OMSKT,Asia/Omsk
+Oral Time,ORAT,Asia/Oral
+Pacific Daylight Time (North America),PDT,America/Los_Angeles
+Peru Time,PET,America/Lima
+Kamchatka Time,PETT,Asia/Kamchatka
+Papua New Guinea Time,PGTT,Pacific/Port_Moresby
+Phoenix Island Time,PHOT,Pacific/Enderbury
+Philippine Time,PHT,Asia/Manila
+Philippine Standard Time,PHST,Asia/Manila
+Pakistan Standard Time,PKT,Asia/Karachi
+Saint Pierre and Miquelon Daylight Time,PMDT,America/Miquelon
+Saint Pierre and Miquelon Standard Time,PMST,America/Miquelon
+Pacific Standard Time (North America),PST,America/Los_Angeles
+Palau Time,PWT,Pacific/Palau
+Paraguay Summer Time,PYST,America/Asuncion
+Paraguay Time,PYT,America/Asuncion
+Réunion Time,RET,Indian/Reunion
+Rothera Research Station Time,ROQT,Antarctica/Rothera
+Sakhalin Island Time,SAKT,Asia/Sakhalin
+Samara Time,SAMT,Europe/Samara
+South African Standard Time,SAST,Africa/Johannesburg
+Solomon Islands Time,SBT,Pacific/Honiara
+Seychelles Time,SCT,Indian/Mahe
+Samoa Daylight Time,SDT,Pacific/Apia
+Singapore Time,SGT,Asia/Singapore
+Sri Lanka Standard Time,SLST,Asia/Colombo
+Srednekolymsk Time,SRET,Asia/Srednekolymsk
+Suriname Time,SRT,America/Paramaribo
+Samoa Standard Time,SST,Pacific/Apia
+Singapore Standard Time,SST,Asia/Singapore
+Showa Station Time,SYOT,Antarctica/Syowa
+Tahiti Time,TAHT,Pacific/Tahiti
+Thailand Standard Time,TST,Asia/Bangkok
+French Southern and Antarctic Time,TFT,Indian/Kerguelen
+Tajikistan Time,TJT,Asia/Dushanbe
+Tokelau Time,TKT,Pacific/Fakaofo
+Timor Leste Time,TLST,Asia/Dili
+Turkmenistan Time,TMT,Asia/Ashgabat
+Turkey Time,TRT,Europe/Istanbul
+Tonga Time,TOT,Pacific/Nuku'alofa
+Taiwan Standard Time,TST,Asia/Taipei
+Tuvalu Time,TVT,Pacific/Funafuti
+Ulaanbaatar Summer Time,ULAST,Asia/Ulaanbaatar
+Ulaanbaatar Standard Time,ULAT,Asia/Ulaanbaatar
+Uruguay Summer Time,UYST,America/Montevideo
+Uruguay Standard Time,UYT,America/Montevideo
+Uzbekistan Time,UZT,Asia/Tashkent
+Venezuelan Standard Time,VET,America/Caracas
+Vladivostok Time,VLAT,Asia/Vladivostok
+Volgograd Time,VOLT,Europe/Volgograd
+Vostok Station Time,VOST,Antarctica/Vostok
+Vanuatu Time,VUT,Pacific/Efate
+Wake Island Time,WAKT,Pacific/Wake
+West Africa Summer Time,WAST,Africa/Banjul
+West Africa Time,WAT,Africa/Lagos
+Western European Summer Time,WEST,Europe/Brussels
+Western European Time,WET,Europe/Dublin
+Western Indonesian Time,WIT,Asia/Jakarta
+Eastern Indonesian Time,EIT,Asia/Jayapura
+Central Indonesia Time,CIT,Asia/Makassar
+West Greenland Summer Time,WGST,America/Godthab
+West Greenland Time,WGT,America/Godthab
+Yakutsk Time,YAKT,Asia/Yakutsk
+Yekaterinburg Time,YEKT,Asia/Yekaterinburg
